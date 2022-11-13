@@ -6,6 +6,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		
 		System.out.println("this is inside eclipseBranch");
+		System.out.println("this is for merging");
 
 	}
 
